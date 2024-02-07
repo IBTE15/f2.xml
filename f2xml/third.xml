@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+<class>
+
+    <student>
+        <name>Ali</name>
+        <age>20</age>
+        <number>13457</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>AISHA</name>
+        <age>21</age>
+        <number>15896</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>Wali</name>
+        <age>19</age>
+        <number>14876</number>
+        <grade>A</grade>
+    </student>
+
+</class>

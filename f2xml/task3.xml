@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="task3..xsl" type="text/xsl"?>
+
+<music>
+
+    <cd>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+    </cd>
+
+    <cd>
+        <title>Hide your heart</title>
+        <artist>Bonnie Tyler</artist>
+    </cd>
+    <cd>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </cd>
+    <cd>
+        <title>Still got the blues</title>
+        <artist>Gary Moore</artist>
+    </cd>
+    <cd>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </cd>
+    <cd>
+        <title>One night only</title>
+        <artist>Bee Gees</artist>
+    </cd>
+    <cd>
+        <title>Sylvias Mother</title>
+        <artist>Dr.Hook</artist>
+    </cd>
+     <cd>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </cd> <cd>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </cd>
+    <cd>
+        <title>When a man loves a woman</title>
+        <artist>Percy Sledge</artist>
+    </cd>
+    <cd>
+        <title>Black Angel</title>
+        <artist>Savage Rose</artist>
+    </cd>
+
+    <cd>
+        <title>1999 Grammy Nominees</title>
+        <artist>Many</artist>
+    </cd>
+    <cd>
+        <title>For the good times</title>
+        <artist>Kenny Rogers</artist>
+    </cd>
+    <cd>
+        <title>Big Willie style</title>
+        <artist>Will Smith</artist>
+    </cd>
+    <cd>
+        <title>Tupelo Honey</title>
+        <artist>Van Morrison</artist>
+    </cd>
+    <cd>
+        <title>Soulsville</title>
+        <artist>Jom Hoel</artist>
+    </cd>
+
+    <cd>
+        <title>The very best of</title>
+        <artist>Cat Stevens</artist>
+    </cd>
+
+    <cd>
+        <title>Stop</title>
+        <artist>Sam Brown</artist>
+    </cd>
+
+    <cd>
+        <title>Bridge of Spices</title>
+        <artist>T Pau</artist>
+    </cd>
+
+
+</music>

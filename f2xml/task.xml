@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="task.xsl" type="text/xsl"?>
+
+<bank>
+
+    <employee>
+        <id>104</id>
+        <name>Ali</name>
+        <salary>30000</salary>
+    </employee>
+
+    <employee>
+        <id>106</id>
+        <name>Aqsa</name>
+        <salary>40000</salary>
+    </employee>
+
+    <employee>
+        <id>109</id>
+        <name>Ahmed</name>
+        <salary>35000</salary>
+    </employee>
+
+    <employee>
+        <id>102</id>
+        <name>Imran</name>
+        <salary>70000</salary>
+    </employee>
+
+
+</bank>
